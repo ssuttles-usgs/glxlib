@@ -1,0 +1,25 @@
+    title; Geolux wave radar test at USACE Field Research Facility in Duck, NC in March-April 2022
+    SciPi; Task 3B
+    PROJECT;  NOPP Hurricane Coastal Impacts (NHCI) Project
+    EXPERIMENT; Field Test, NC, 2022
+    DESCRIPTION; Field Testing in NC
+    DATA_SUBTYPE; MOORED
+    DATA_ORIGIN; USGS
+    COORD_SYSTEM; GEOGRAPHIC
+    Conventions; CF-1.6
+    MOORING; NCDAR30655
+    WATER_DEPTH; 4.3
+    WATER_DEPTH_NOTE; Mean Sea-Level (meters) - guess
+    latitude;  36.18373
+    longitude; -75.74521
+    Deployment_date; 2022-03-28 10:00:00
+    Recovery_date; 2022-04-01 12:00:00
+    DATA_CMNT;  
+    platform_type; pier railing
+    DRIFTER;  ?
+    POS_CONST;  0
+    DEPTH_CONST;  0
+    WATER_MASS; Atlantic Ocean
+    VAR_FILL;  1.e+35
+    institution;  United States Geological Survey
+    institution_url;  TBD

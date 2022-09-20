@@ -1,0 +1,10 @@
+basefile: 'FastHzData2'
+filename: 'Geolux_example'   # name of output file, -raw.cdf or .nc will be appended to this
+LatLonDatum: 'NAD83'
+skiprows: 0
+header: 1
+ClockError: 0 #sec 
+instrument_type: 'Geolux LX-80' #what does this mean?
+orientation: 'DOWN' # use this to identify orientation of profiler
+initial_instrument_height: 8.56  # meters, NAVD88
+geopotential_datum_name: 'NAVD88'
